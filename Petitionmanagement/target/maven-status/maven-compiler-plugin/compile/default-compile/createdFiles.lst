@@ -1,0 +1,11 @@
+com\kiruthi\Service\ComplaintService.class
+com\kiruthi\model\Complaint.class
+com\kiruthi\model\User.class
+com\kiruthi\Controller\ComplaintController.class
+com\kiruthi\Repository\ComplaintRepo.class
+com\kiruthi\ServiceImpl\ComplaintServiceImpl.class
+com\kiruthi\ServiceImpl\UserServiceImpl.class
+com\kiruthi\PetitionmanagementApplication.class
+com\kiruthi\Repository\UserRepo.class
+com\kiruthi\Service\UserService.class
+com\kiruthi\Controller\UserController.class
